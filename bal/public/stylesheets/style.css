@@ -1,0 +1,111 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+#wrap{
+  width: 100%;
+  height: 100%;
+}
+.header{
+  width: 100%;
+}
+.top{
+  width: 460px;
+  height: 24px;
+  line-height: 24px;
+  color: #000;
+  float: right;
+  margin-top: 20px;
+}
+.top a{
+  color: #000;
+  margin-right: 20px;
+  font-size: 12px;
+}
+.top a:hover{
+  color: #0000cc;
+}
+.last{
+  display: inline-block;
+  background: #0099FF;
+  color: #fff !important;
+  text-decoration: none;
+  width: 60px;
+  height: 24px;
+  text-align: center;
+
+}
+.content{
+  width: 100%;
+  height: 190px;
+  clear: both;
+  text-align: center;
+}
+.logo{
+  padding-top: 48px;
+}
+.search{
+  width: 640px;
+  height: 36px;
+  margin: 0 auto;
+}
+.search form{
+  width: 640px;
+  height: 36px;
+}
+.search form input{
+  background: url("../images/xj.jpg") no-repeat right;
+  background-position: 97%;
+}
+.search input{
+  padding-left: 9px;
+  width: 530px;
+  height: 30px;
+  border: none;
+  border-top: 1px solid #b8b8b8;
+  border-left: 1px solid #b8b8b8;
+  border-bottom: 1px solid #b8b8b8;
+  float: left;
+}
+.search button{
+  width: 100px;
+  height: 34px;
+  text-align: center;
+  font-size: 12px;
+  line-height: 34px;
+  border: none;
+  background: #3385ff;
+  color: #fff;
+  outline: none;
+}
+.footer{
+  width: 100%;
+  height: 200px;
+  margin-top: 160px;
+  text-align: center;
+}
+.footer_1{
+  width: 60px;
+  height: 80px;
+  margin: 0 auto;
+}
+.footer_1 p{
+  font-size: 12px;
+  margin-top: 8px;
+  font-weight: bolder;
+  color: #666;
+}
+.footer_2{
+  margin-top: 30px;
+}
+.footer_2 a{
+  margin-left: 15px;
+  color: #999;
+  font-size: 12px;
+}
+.p{
+  color: #999;
+}
